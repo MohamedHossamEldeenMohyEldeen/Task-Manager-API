@@ -1,0 +1,21 @@
+{
+  "name": "task-manager-api",
+  "version": "1.0.0",
+  "description": "Simple task manager idea",
+  "homepage": "https://github.com/MohamedHossamEldeenMohyEldeen/Task-Manager-API#readme",
+  "bugs": {
+    "url": "https://github.com/MohamedHossamEldeenMohyEldeen/Task-Manager-API/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MohamedHossamEldeenMohyEldeen/Task-Manager-API.git"
+  },
+  "license": "ISC",
+  "author": "Mohamed Hossam",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "test",
+    "start": "node server.js"
+  }
+}
